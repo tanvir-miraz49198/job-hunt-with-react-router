@@ -1,0 +1,147 @@
+ [
+    {
+      "id": 1,
+      "company_logo": "https://i.ibb.co/T1d0X0R/google-1-1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "Google LLC",
+      "remote_or_onsite": "Remote",
+      "location": "USA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "100,000K - 150,000K",
+      "job_description": "We are seeking a talented software engineer to join our team and help us build innovative products.",
+      "job_responsibility": "Develop, test, and maintain software applications. Collaborate with cross-functional teams to design and implement new features. Troubleshoot and resolve issues in a timely manner.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software development",
+      "contact_information": {
+        "phone": "555-1234",
+        "email": "jobs@example.com"
+      },
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://i.ibb.co/6n7q2Cs/netflix-4-1.png",
+      "job_title": "Marketing Manager",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "New York City",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "80,000K - 120,000K",
+      "job_description": "We are seeking an experienced marketing manager to lead our marketing team and develop effective strategies.",
+      "job_responsibility": "Develop and implement marketing plans. Analyze market trends and customer insights to inform marketing strategies. Manage a team of marketing professionals.",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "5+ years of experience in marketing",
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "jobs@acme.com"
+      },
+      "address": {
+        "street": "456 Oak St",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10001"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://i.ibb.co/y4RD5BB/Group-10021.png",
+      "job_title": "Graphic Designer",
+      "company_name": "Aribnb",
+      "remote_or_onsite": "Remote",
+      "location": "Texas, USA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "25K - 50K",
+      "job_description": "We are seeking a creative graphic designer to help us design beautiful and effective visuals for our clients.",
+      "job_responsibility": "Design graphics for various projects, including websites, marketing materials, and social media. Collaborate with clients to understand their design needs and preferences.",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experiences": "2+ years of experience in graphic design",
+      "contact_information": {
+        "phone": "555-9012",
+        "email": "jobs@designco.com"
+      },
+      "address": {
+        "street": "789 Maple Ave",
+        "city": "Anytown",
+        "state": "CA",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.ibb.co/hWHt0R9/tesla-9-1.png",
+      "job_title": "Email Marketing",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Remote",
+      "location": "California, USA",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "25K - 50K",
+      "job_description": "We are seeking a creative Email Marketing to help us design beautiful and effective visuals for our clients.",
+      "job_responsibility": "Email Marketing for various projects, including websites, marketing materials, and social media. Collaborate with clients to understand their design needs and preferences.",
+      "educational_requirements": "Bachelor's degree in Email Marketer or related field",
+      "experiences": "3+ years of experience in graphic design",
+      "contact_information": {
+        "phone": "5945-9012",
+        "email": "joadabs@designco.com"
+      },
+      "address": {
+        "street": "799 Maple Ave",
+        "city": "Mymenshing, Bangladesh",
+        "state": "CA",
+        "zipcode": "12395"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://www.designwebtech.com/img/logo/webtech-logo.png",
+      "job_title": "Web Application Developer",
+      "company_name": "ICT Co",
+      "remote_or_onsite": "Onsite",
+      "location": "Koklata, India",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "30K - 50K",
+      "job_description": "We are seeking a creative Web Application Develop to help us design beautiful and effective visuals for our clients.",
+      "job_responsibility": "Design graphics for various projects, including websites, marketing materials, and social media. Collaborate with clients to understand their design needs and preferences.",
+      "educational_requirements": "Bachelor's degree in Web Application Developer or related field",
+      "experiences": "1+ years of experience in graphic design",
+      "contact_information": {
+        "phone": "559-9012",
+        "email": "jinfbs@designco.com"
+      },
+      "address": {
+        "street": "989 Maple Ave",
+        "city": "MenHaton",
+        "state": "CTA",
+        "zipcode": "12745"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://www.pngfind.com/pngs/m/129-1299053_digital-marketing-agency-logo-hd-png-download.png",
+      "job_title": "Digital Marketer",
+      "company_name": "Marketing Co",
+      "remote_or_onsite": "Remote",
+      "location": "KSA,",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "25K - 40K",
+      "job_description": "We are seeking a creative Marketer to help us design beautiful and effective visuals for our clients.",
+      "job_responsibility": "Digital Marketing for various projects, including websites, marketing materials, and social media. Collaborate with clients to understand their design needs and preferences.",
+      "educational_requirements": "Bachelor's degree in Digital Marketing or related field",
+      "experiences": "5+ years of experience in graphic design",
+      "contact_information": {
+        "phone": "55545-9012",
+        "email": "jobass@designco.com"
+      },
+      "address": {
+        "street": "789 Maple Ave",
+        "city": "Neayan",
+        "state": "CAa",
+        "zipcode": "1235"
+      }
+    }
+  ]
+
